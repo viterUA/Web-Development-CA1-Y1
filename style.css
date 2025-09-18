@@ -1,0 +1,159 @@
+body{
+    background-image: url('image/antoine-j-A_0C42zmz1Q-unsplash.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    backgrund-attachment: fixed;
+    background-color: black;
+    
+}
+
+.form{
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+h1{
+    color: navy;
+    text-align: center;
+}
+h2{
+    color: navy;
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+.img1{
+    float:left;
+
+}
+.img2{
+    float: right;
+
+}
+.box{
+    background: white;
+    font-family: lato,sans-serif;
+    border:1px solid #7f7f7f;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+    font-size:16px;
+    margin-top:3%;
+    text-align:left;
+    padding:5%;       
+    }
+li{
+    padding: 1%;
+}
+.navigation {
+    float: right;
+    background-color: #333;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;  
+}
+.navigation a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+.navigation a:hover {
+    background-color: white;
+    color: black;
+}
+.navigation a.active {
+    background-color: #4D752C;
+    color: black;
+}
+
+.clearfix1{clear:left;}
+
+.clearfix2{clear:right}
+
+.footer {
+    background: #7D8D6F;
+    color: white;
+    text-align: center;
+	padding: 5px 5px;
+    margin-top: 5%
+}
+
+.footer a{
+    color: white;
+}
+
+.textwrap{
+    float:right;
+    margin: 15px;
+}
+
+.textwrap2{
+    float:left;
+    margin: 15px;
+}
+
+th {
+    border: 1px solid #000000;
+    padding: 4px;
+    text-align:center;
+}
+
+table { 
+    width: 100%;
+    border-collapse: collapse;  
+    margin: 0 auto;
+    padding:0;
+}
+
+td{
+    border: 1px solid black;
+    padding: 4px;
+    text-align: center;
+}
+
+.important{
+    background-color:#ccc;
+    text-align: center;
+}
+
+.caption{
+    font-weight: bold;
+    padding-bottom:2%;
+    padding-top:2%;
+    text-align: center;
+    font-size: 24px;
+}
+
+.color{
+    color: #63DB00;
+    font-style: italic;
+    font-weight: bold;
+}
+
+textarea{
+    max-width: 100%;
+    height: auto
+}
+
+.box2{
+border-width: 1px;
+border-style: solid;
+border-color: black;
+margin-left: 5%;
+margin-right: 5%;
+margin-bottom: 5%;
+padding: 10px;
+}
